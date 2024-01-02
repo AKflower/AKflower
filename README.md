@@ -28,4 +28,14 @@
 <p>Studying <b>Computer Science</b> at <b>HCMUT</b> (Ho Chi Minh City University of Technology) <i>2020 - Now</i></p>
 
 
-# Contact
+# 📬 Contact
+<div align=center>
+  <span><a href="https://www.linkedin.com/in/khoa-nguyen-anh-65923927b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVGQblVMPRbajRjiEL0AMHQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoa nguyen anh" height="30" width="40" /></a></span>
+<span><a href="https://fb.com/khoa.nguyenanh.1426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khoa.nguyenanh.1426" height="30" width="40" /></a></span>
+<span><a href="mailto:anhkhoabqv@gmail.com" target="blank"><img align="center" src="https://github.com/AKflower/AKflower/assets/89245858/24241c6b-8d49-4b61-985a-0ce607cd3d73" alt="khoa.nguyenanh.1426" height="30" width="40" /></a></span>
+</div>
+
+
+
+
+
