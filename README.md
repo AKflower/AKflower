@@ -27,6 +27,7 @@
 <b>🎓 <i>Education</i></b>
 <p>Studying <b>Computer Science</b> at <b>HCMUT</b> (Ho Chi Minh City University of Technology) <i>2020 - Now</i></p>
 
+# 🏆 Projects
 
 # 📬 Contact
 <div align=center>
